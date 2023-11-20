@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1700479771 source:/home3/lm174023/Documents/codeblocks/AydinMeillier/cube(1).cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<iostream>
+	<cmath>
+
